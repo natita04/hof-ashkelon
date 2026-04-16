@@ -27,7 +27,7 @@ function App() {
           <img
             src="/logo.png"
             alt="לוגו מועצה אזורית חוף אשקלון"
-            className="w-12 h-12 object-contain"
+            className="w-12 h-12 object-contain mix-blend-multiply"
           />
           <h1 className="text-xl font-bold text-gray-800">
             מועצה אזורית חוף אשקלון
